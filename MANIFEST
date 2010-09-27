@@ -40,7 +40,6 @@ lib/liquid/tag.rb
 lib/liquid/template.rb
 lib/liquid/variable.rb
 lib/liquid.rb
-lib/redcloth.rb
 lib/support/class_options.rb
 lib/support/inline_rendering.rb
 lib/support/route_mapper.rb
